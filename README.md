@@ -9,4 +9,5 @@
 <p align="left">
 <a href="https://www.leetcode.com/anthonyqwo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anthonyqwo" height="40" width="30" /></a>
 <a href="https://medium.com/@anthonyqwo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="anthonyqwo" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@AnthonyQwO" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="AnthonyQwO" height="30" width="40" /></a>
 </p>
