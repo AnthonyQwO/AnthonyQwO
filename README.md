@@ -1,4 +1,4 @@
-<h2 align="center">Hello 👋, I'm AnthonyQwO</h2>
+<h2 align="center">Hello 👋, I'm Anthony</h2>
 <h5 align="center">I am currently studying knowledge related to programming competitions and machine learning. I am also working on developing various projects. I also enjoy working on projects related to Raspberry Pi or edge computing devices.</h5>
 
 <h3 align="left">Languages & Tools 🛠️</h3>
